@@ -1,0 +1,12 @@
+  build:
+    version: "3.0"
+
+  cards:
+    message: "Welcome to fun bank cards related local API"
+    contactDetails:
+      name: "Piyush Koli"
+      email: "piyush@gmail.com"
+    onCallSupport:
+      - (+91)2378232323
+      - (+91)6786837272
+

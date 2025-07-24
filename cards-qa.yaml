@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message :  "Welcome to Fun bank cards related QA APIs"
+  contactDetails :
+    name : "Lokesh Koli"
+    email : "lokesh@gmail.com"
+  onCallSupport:
+    -(+91)77722211177
+    -(+91)88882228181

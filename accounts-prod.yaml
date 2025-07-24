@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message :  "Welcome to Fun bank accounts related Prod APIs"
+  contactDetails :
+    name : "Rupali Koli"
+    email : "rupali@gmail.com"
+  onCallSupport:
+    -(+91)99112838112
+    -(+91)67525161767

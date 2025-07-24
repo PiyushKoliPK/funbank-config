@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message :  "Welcome to Fun bank accounts related local APIs"
+  contactDetails :
+    name : "Piyush Koli"
+    email : "piysh@gmail.com"
+  onCallSupport:
+    -(+91)11093837616
+    -(+91)62626362667
