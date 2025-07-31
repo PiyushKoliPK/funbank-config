@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message :  "Welcome to Fun bank accounts related QA APIs"
+  message :  "Welcome to Fun bank accounts related UAT APIs"
   contactDetails :
     name : "Lokesh Koli"
     email : "efc47d87f69ced54af4066c7836b8b801c08e100def400f5ee3618164ed75744ec9c77bf7dc05ab564cd85cfc7938dd5"
