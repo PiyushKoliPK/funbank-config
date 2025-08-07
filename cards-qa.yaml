@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message :  "Welcome to Fun bank cards related QA APIs"
+  message :  "Welcome to Fun bank cards related UAT APIs"
   contactDetails :
     name : "Lokesh Koli"
     email : "lokesh@gmail.com"
