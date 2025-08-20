@@ -4,7 +4,7 @@ build:
 accounts:
   message :  "Welcome to Fun bank accounts related local APIs"
   contactDetails :
-    name : "Piyush Koli"
+    name : "Piyush S. Koli"
     email : "piysh@gmail.com"
   onCallSupport:
     -(+91)11093837616
