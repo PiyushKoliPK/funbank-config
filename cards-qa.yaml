@@ -5,7 +5,7 @@ cards:
   message :  "Welcome to Fun bank cards related UAT APIs"
   contactDetails :
     name : "Lokesh Koli"
-    email : "lokesh@gmail.com"
+    email : "{cipher}cce202131a060238cf57c8baa60a3979c0df8fb95988b08e8135b6211c7300f7f5dcb479e707f470dafab508f2422925"
   onCallSupport:
     -(+91)77722211177
     -(+91)88882228181
