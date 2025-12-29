@@ -5,7 +5,7 @@ accounts:
   message :  "Welcome to Fun bank accounts related Prod APIs"
   contactDetails :
     name : "Rupali Koli"
-    email : "rupali@gmail.com"
+    email : "{cipher}2508e5eb30be0a136e0598d9a5ee2061f356426915b907778842c3f84015a0de2a021b8593ed2477b1139f541f8988b4"
   onCallSupport:
     -(+91)99112838112
     -(+91)67525161767
