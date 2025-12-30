@@ -4,7 +4,7 @@
   cards:
     message: "Welcome to fun bank cards related local API"
     contactDetails:
-      name: "Piyush Koli"
+      name: "Piyush S. Koli"
       email: "piyush@gmail.com"
     onCallSupport:
       - (+91)2378232323
