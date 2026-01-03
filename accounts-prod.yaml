@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message :  "Welcome to Fun bank accounts related Webhook APIs"
+  message :  "Welcome to Fun bank accounts related Webhook Production APIs"
   contactDetails :
     name : "Rupali Koli"
     email : "{cipher}2508e5eb30be0a136e0598d9a5ee2061f356426915b907778842c3f84015a0de2a021b8593ed2477b1139f541f8988b4"
