@@ -2,9 +2,9 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to fun bank loans related local API"
+  message: "Welcome to fun bank loans related webohook  local API"
   contactDetails:
-    name: "Piyush Koli"
+    name: "Piyush sanjay Koli"
     email: "piyush@gmail.com"
   onCallSupport:
     - (+91)2378232323
